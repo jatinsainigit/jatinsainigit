@@ -11,5 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Selenium, Appium, Maven, PlayWright and stuff related to Automation and Manual Testing.
 - 📫 How to reach <a href="https://www.linkedin.com/in/iamjatin/"> LinkedIn </a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Automation Tester be like Eat 5 Star do Testing(Nothing)😂
-
